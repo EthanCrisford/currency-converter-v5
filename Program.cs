@@ -14,7 +14,7 @@ while (onExit == false)
     Console.WriteLine("Which currency would you like?");
     currency = Console.ReadLine();
     //output = Console.ReadLine();
-      //output = output.ToLower();
+      //output = output.ToLower(); not working 
     
 
     if (currency == "EUR")
