@@ -1,0 +1,15 @@
+H:\C# Projects\currency converter v5\obj\Debug\net6.0\currency converter v5.csproj.AssemblyReference.cache
+H:\C# Projects\currency converter v5\obj\Debug\net6.0\currency converter v5.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Projects\currency converter v5\obj\Debug\net6.0\currency converter v5.AssemblyInfoInputs.cache
+H:\C# Projects\currency converter v5\obj\Debug\net6.0\currency converter v5.AssemblyInfo.cs
+H:\C# Projects\currency converter v5\obj\Debug\net6.0\currency converter v5.csproj.CoreCompileInputs.cache
+H:\C# Projects\currency converter v5\bin\Debug\net6.0\currency converter v5.exe
+H:\C# Projects\currency converter v5\bin\Debug\net6.0\currency converter v5.deps.json
+H:\C# Projects\currency converter v5\bin\Debug\net6.0\currency converter v5.runtimeconfig.json
+H:\C# Projects\currency converter v5\bin\Debug\net6.0\currency converter v5.dll
+H:\C# Projects\currency converter v5\bin\Debug\net6.0\currency converter v5.pdb
+H:\C# Projects\currency converter v5\obj\Debug\net6.0\currency converter v5.dll
+H:\C# Projects\currency converter v5\obj\Debug\net6.0\refint\currency converter v5.dll
+H:\C# Projects\currency converter v5\obj\Debug\net6.0\currency converter v5.pdb
+H:\C# Projects\currency converter v5\obj\Debug\net6.0\currency converter v5.genruntimeconfig.cache
+H:\C# Projects\currency converter v5\obj\Debug\net6.0\ref\currency converter v5.dll
