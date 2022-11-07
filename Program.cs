@@ -13,8 +13,7 @@ while (onExit == false)
     // get currency type
     Console.WriteLine("Which currency would you like?");
     currency = Console.ReadLine();
-    //output = Console.ReadLine();
-      //output = output.ToLower(); not working 
+      currency = currency.ToUpper();
     
 
     if (currency == "EUR")
@@ -60,7 +59,7 @@ while (onExit == false)
 
     Console.WriteLine("You entered " + usersnumber + " GBP");
 
-    //takes the number the user put in and multipies it by 0.88 as thats the value of the euro to pound.
+    //takes users number and divides by conversion rate
     usersnumber = usersnumber / conversionRate;
 
     //outputs number after calculation.
